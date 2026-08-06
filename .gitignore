@@ -1,0 +1,11 @@
+# IDE / 编辑器
+.idea/
+.vscode/
+*.iml
+
+# 工具配置
+.omo/
+
+# 系统文件
+.DS_Store
+Thumbs.db
